@@ -17,6 +17,7 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("This is my first project in github");
+        System.out.println("Thank you");
     }
     
 }
